@@ -9,7 +9,7 @@ Course: Computer Science 10
  
 
 */
-package Mastery;
+package SkillBuilders;
 public class TicTacToerules{
 
     public static void main(String[] args) {

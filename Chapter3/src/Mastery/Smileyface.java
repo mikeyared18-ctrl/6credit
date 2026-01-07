@@ -1,9 +1,6 @@
-
 /*
-Program:Smileyface    		Date:11/26/2025 
-Purpose: Create a Smile application that displays a smiling face made of keyboard characters. 
-
-
+Program:Smileyface                                   		Date:11/26/2025 
+Purpose:Create a Smile application that displays a smiling face made of keyboard characters.
 Author: Yemikael-Berihun
 School: CHHS
 Course: Computer Science 10
