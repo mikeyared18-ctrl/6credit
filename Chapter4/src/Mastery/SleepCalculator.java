@@ -15,7 +15,7 @@ public class SleepCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Get birthdate
+        // Get birthDate
         System.out.println("Enter your birthdate:");
         System.out.print("Year: ");
         int birthYear = scanner.nextInt();
@@ -59,14 +59,14 @@ public class SleepCalculator {
     }
 }
 /*screeDump
- * Enter your birthdate:
+Enter your birthdate:
 Year: 2008
 Month: 12
 Day: 5
 Enter today's date:
-Year: 2025
-Month: 12
-Day: 8
-You have been alive for 6208 days.
-You have slept 49664 hours.
+Year: 2026
+Month: 2
+Day: 18
+You have been alive for 6278 days.
+You have slept 50224 hours.
  */
