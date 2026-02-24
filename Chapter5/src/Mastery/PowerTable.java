@@ -18,7 +18,7 @@ package Mastery;
 public class PowerTable {
 
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
+        
 
         // INPUT
         int maxBase = 10;
