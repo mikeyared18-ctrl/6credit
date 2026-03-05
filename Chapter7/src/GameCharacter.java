@@ -1,6 +1,7 @@
 
 public class GameCharacter 
 {
+  private static final String System = null;
   private String name; 
   private int health; 
   
@@ -13,9 +14,10 @@ public class GameCharacter
 	//Behaviour: actions the character can do 
 	public void attack()
 	{
-		System.out.println(name + "Attacks! Deals 10 damage.");
+		system.out.println(name + "Attacks! Deals 10 damages.");
 	}
-} 
+
+ 
 
 
 public void takeDamage(int damage)
@@ -25,3 +27,8 @@ public void takeDamage(int damage)
 		health = 0;
 	System.out.println(name + "'s health is now" + health);
 } 
+public String getStatus()
+{
+	return name + "has" + health + "health."; }
+
+}
