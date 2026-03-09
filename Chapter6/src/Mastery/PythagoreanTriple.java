@@ -9,7 +9,7 @@ public class PythagoreanTriple {
                 double c = Math.sqrt(a * a + b * b);
 
                 // Check if c is an integer and less than 100
-                if (c == (int) c && c < 100) {
+                if (c == (int) c && c < 500) {
                     System.out.println("(" + a + ", " + b + ", " + (int)c + ")");
                 }
             }
